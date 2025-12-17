@@ -1,4 +1,4 @@
-// Last updated: 12/17/2025, 4:04:50 PM
+// Last updated: 12/17/2025, 4:05:24 PM
 1class Solution {
 2    public int maxSubArray(int[] nums) {
 3        int currentSum = nums[0];
